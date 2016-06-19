@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 1.1.0
 
 ### Enhancements
@@ -8,6 +9,13 @@
 ### Deprecated
 
 * `RealmConfiguration.Builder(File)`. Use `RealmConfiguration.Builder(Context, File)` instead.
+=======
+## 1.0.2
+
+### Bug fixes
+
+* Disabled the optional API transformer since it has problems with DexGuard (3022).
+>>>>>>> origin/releases
 
 ## 1.0.1
 
